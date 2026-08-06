@@ -1,1 +1,1 @@
-# measles-data-project
+# Measles Data Visualization Project
