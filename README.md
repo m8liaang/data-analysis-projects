@@ -6,6 +6,7 @@ Streamlit data visualization dashboard showing measles cases in the United State
 | --- | --- |
 | Data cleaning, preprocessing, and restructuring | pandas |
 | Visualizations | matplotlib, plotly express|
+| Dashboard | streamlit|
 
 ## Analysis Performed
 - Data cleaning and restructuring
