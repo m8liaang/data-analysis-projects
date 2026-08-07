@@ -26,8 +26,8 @@ Source: [United States Census Bureau](https://www.census.gov/data/tables/2025/de
 
 ## Analysis Performed
 - Data cleaning and restructuring
-- Exploratory analysis
-- Visualizations
+- Exploratory data analysis
+- Data visualizations
 
 ## Key Findings
 1. Regular and non-fat ice cream exhibitied downward trends with time, while low-fat ice cream saw an upward trend. 
