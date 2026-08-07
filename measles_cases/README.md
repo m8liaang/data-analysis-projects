@@ -18,7 +18,7 @@ The epidemic curves revealed that there were/are, in fact, measles outbreaks.
 
 1. Outbreak curves are present in the most affected U.S. states (Florida, Virginia, Texas, Arizona, Utah, and South Carolina). South Carolina had the largest outbreak (with its peak being over 100 cases), while Texas had experienced two outbreaks.
 2. South Carolina, Texas, and Utah are the three U.S. states with the most measles cases (first, second, and third in that order).
-3. Many of the cases in the dataset were confirmed by laboratory testing and local. There were more cases seen in unvaccinated individuals than vaccinated ones.
+3. Many of the cases in the dataset were confirmed by laboratory testing and were local cases. There were more cases of measles seen in unvaccinated individuals than vaccinated ones.
 4. 2026 saw a rise in measles cases throughout the United States. Three outbreaks have occurred since January 2025. 
 
 ## Project Structure
