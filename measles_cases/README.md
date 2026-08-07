@@ -35,5 +35,5 @@ measles_outbreak/
 │   │   └── virginia.png
 │   └── most_affected_states.png
 ├── README.md
-├── measles_outbreak.ipynb
+└── measles_outbreak.ipynb
 ```
