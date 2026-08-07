@@ -18,6 +18,7 @@ Pandas, matplotlib, seaborn, plotly
 1. Artists: Janet Jackson was the artist that appeared on the Billboard 100 the most in 1990.
 2. Subgenres: Adult contemporary was the most popular subgenre, followed by New Jack Swing and dance-pop.
 3. Genres: Pop was the most popular genre, followed by R&B and Pop Rock.
+4. "Free Falling" was the most streamed song on Spotify from the Billboard 100 list.
 
 ## Project Structure
 ```text
