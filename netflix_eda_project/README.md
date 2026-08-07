@@ -2,13 +2,13 @@
 An exploratory data analysis project on movies and TV shows on Netflix. Three CSV files describing one dataset were processed, and certain areas of interest were identified and analyzed. The dataset used for this analysis contained Netflix movies and TV shows that were released from 1940 to 2017, and included information on their maturity ratings, rating scores, 
 
 ## Data Sources
+Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
+
 Data is from [data.world and Chase Willden](https://data.world/chasewillden/netflix-shows).
 
 The dataset was accessed via the [DataCamp community-groupby repository](https://github.com/datacamp/community-groupby/tree/master/data).
 
 The DataCamp repository served as a convenient source for the CSV files, while the original dataset is hosted on data.world.
-
-Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
 
 ## Toolkit/Python Libraries Used
 Pandas, matplotlib, seaborn
