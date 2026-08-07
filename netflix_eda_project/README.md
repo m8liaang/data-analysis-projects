@@ -27,7 +27,7 @@ Certain maturity ratings (NR and UR, "Not Rated" and "Unrated" respectively) may
 3. 
 
 ## Limitations
-Sample size was not known for critic rating scores. A much larger sample size could cause the average rating score to be way more higher or lower than it really is. Not including UR and NR ratings in the analysis would also affect the average user and critics rating scores.
+Sample size was not known for critic rating scores. A much larger sample size could cause the average rating score to be way higher or lower than it really is. Not including UR and NR ratings in the analysis would also affect the average user and critics rating scores.
 
 The dataset also does not have an equal number of movies and TV shows released every year from 1940 to 2017. More movies and/or TV shows being released in one year (e.g. 2016) could skew the average rating score for that year for both users and critics, as the sample size would be much larger.
 
