@@ -7,7 +7,7 @@ CSV files are **NOT** included in this repository. Users should obtain the datas
 
 ## Project List
 - [Ice Cream and Income Data Analysis Project](https://github.com/m8liaang/data-analysis-projects/tree/main/ice_cream_income)
-- [Measles Cases Project](https://github.com/m8liaang/data-analysis-projects/tree/main/measles_outbreak)
+- [Measles Cases Project](https://github.com/m8liaang/data-analysis-projects/tree/main/measles_cases)
 - [Netflix EDA Project](https://github.com/m8liaang/data-analysis-projects/tree/main/netflix_eda_project)
 
 ## Toolkit/Python Libraries Used
