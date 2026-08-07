@@ -1,5 +1,5 @@
 # Netflix Exploratory Data Analysis Project
-An exploratory data analysis project on movies and TV shows on Netflix. Three CSV files describing one dataset were processed, and certain areas of interest were identified and analyzed. The dataset used for this analysis contained TV shows on Netflix that were released from 1940 to 2017, and included information on their maturity ratings, release years, and rating scores.
+An exploratory data analysis project on movies and TV shows on Netflix. Three CSV files describing one dataset were processed, and certain areas of interest were identified and analyzed. The dataset used for this analysis contained movies and TV shows on Netflix that were released from 1940 to 2017, and included information on their maturity ratings, release years, and rating scores.
 
 ## Data Sources
 Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
@@ -24,14 +24,14 @@ The dataset did not give information as to what some of the columns meant. One s
 Certain maturity ratings (NR and UR, "Not Rated" and "Unrated" respectively) may include both movies and TV shows, which would affect calculating the average rating scores of critics and users alike. NR and UR were, therefore, not included in this data analysis.
 
 ## Key Findings
-1. 
-2. 
-3. Pearson coefficients calculated showed a moderate positive relationship. The independent, two variable t-test suggests the null hypothesis cannot be rejected.
+1. When the data was grouped by release year of content on Netflix, critics generally had a higher average rating score than users.
+2. Critics seem to have a higher average rating score for more mature ratings than for less mature ones. This could be due to a preference to watch media more suited to their demographic, causing them to stay away from the more "childish" movies and TV shows.
+4. The Pearson coefficient calculated showed a weak, positive linear relationship, whereas the paired t-test suggests the null hypothesis cannot be rejected. Critic and user rating choices certainly have a relationship, but the manner of that relationship remains debatable. 
 
 ## Limitations
 Sample size was not known for critic rating scores. A much larger sample size could cause the average rating score to be way higher or lower than it really is. Not including UR and NR ratings in the analysis would also affect the average user and critics rating scores calculations.
 
-The dataset also does not have an equal number of movies and TV shows released every year from 1940 to 2017. More movies and/or TV shows being released in one year (e.g. 2016) could skew the average rating score for that year for both users and critics, as the sample size would be much larger.
+The dataset also does not have an equal number of movies and TV shows released every year from 1940 to 2017. More movies and/or TV shows being released in one year (e.g. 2016) could skew the average rating score for that year for both users and critics, as the sample size would be much larger. Not only that, but it could also mean there is a better statistical test to use to analyze the null hypothesis.
 
 ## Project Structure
 ```text
