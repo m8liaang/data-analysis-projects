@@ -12,4 +12,4 @@ Data visualization of measles cases in the United States.
 - Data visualizations
 
 ## Data Sources
-(JHU Measles Tracking Team Data Repository at Johns Hopkins University)[https://github.com/CSSEGISandData/measles_data/tree/main]
+[JHU Measles Tracking Team Data Repository at Johns Hopkins University](https://github.com/CSSEGISandData/measles_data/tree/main)
