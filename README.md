@@ -8,7 +8,8 @@ CSV files are **NOT** included in any of the directories in this repository. Use
 ## Project List
 - [Ice Cream and Income Data Analysis Project](https://github.com/m8liaang/data-analysis-projects/tree/main/ice_cream_income)
 - [Measles Cases Project](https://github.com/m8liaang/data-analysis-projects/tree/main/measles_cases)
-- [Netflix EDA Project](https://github.com/m8liaang/data-analysis-projects/tree/main/netflix_eda_project)
+- [Netflix EDA Project](https://github.com/m8liaang/data-analysis-projects/tree/main/netflix_eda)
+- [Spotify Billboard 100 Project](https://github.com/m8liaang/data-analysis-projects/tree/main/spotify_billboard)
 
 ## Toolkit/Python Libraries Used
 pandas, matplotlib, seaborn, plotly, scipy (stats)
