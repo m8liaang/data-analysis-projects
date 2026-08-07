@@ -5,18 +5,6 @@ This is an exploratory data analysis project.
 ## Overview
 An exploratory data analysis project on the relationship between ice cream consumption (United States Department of Agriculture) and median household income (U.S. Census Bureau) over time in the United States, utilizing Google Colaboratory for coding. 
 
-## Toolkit/Python Libraries Used
-| Component of Analysis | Python Library (or Libraries)|
-| --- | --- |
-| Data cleaning, preprocessing, and restructuring | pandas |
-| Exploratory Analysis | pandas, seaborn, matplotlib|
-| Visualizations | numPy, seaborn, matplotlib|
-
-## Analysis Performed
-- Data cleaning and restructuring
-- Exploratory analysis
-- Visualizations
-
 ## Data Sources
 Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
 
@@ -28,6 +16,18 @@ Source: [United States Department of Agriculture](https://ers.usda.gov/data-prod
 ### Dataset: Median Household Income and Median Earnings by Educational Attainment: 2004 to 2024
 Source: [United States Census Bureau](https://www.census.gov/data/tables/2025/demo/income-poverty/p60-286.html)
 - [Median Household Income by Educational Attainment Dataset)](https://www2.census.gov/programs-surveys/demo/tables/p60/286/inc_ed.xlsx) (.xlsl file)
+
+## Toolkit/Python Libraries Used
+| Component of Analysis | Python Library (or Libraries)|
+| --- | --- |
+| Data cleaning, preprocessing, and restructuring | pandas |
+| Exploratory Analysis | pandas, seaborn, matplotlib|
+| Visualizations | numPy, seaborn, matplotlib|
+
+## Analysis Performed
+- Data cleaning and restructuring
+- Exploratory analysis
+- Visualizations
 
 ## Key Findings
 1. Regular and non-fat ice cream exhibitied downward trends with time, while low-fat ice cream saw an upward trend. 
