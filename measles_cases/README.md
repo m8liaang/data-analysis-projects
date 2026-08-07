@@ -26,9 +26,9 @@ The epidemic curves revealed that there were/are, in fact, measles outbreaks.
 measles_cases/
 ├── img/
 |   └── cases/
-│   │    ├── case_type.png
-│   │    ├── case_US.png
-│   │    └── cases_year.png
+│   │   ├── case_type.png
+│   │   ├── case_US.png
+│   │   └── cases_year.png
 |   └── states/
 │   │   ├── arizona.png
 │   │   ├── florida.png
