@@ -35,7 +35,7 @@ The dataset also does not have an equal number of movies and TV shows released e
 
 ## Project Structure
 ```text
-netflix_eda_project/
+netflix_eda/
 ├── README.md
 ├── netflix_eda.ipynb
 ```
