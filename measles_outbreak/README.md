@@ -9,9 +9,9 @@ Pandas, plotly
 - Data visualization (shown as .png files in img folder)
 
 ## Data Source
-[JHU Measles Tracking Team Data Repository at Johns Hopkins University](https://github.com/CSSEGISandData/measles_data)
-
 Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
+
+[JHU Measles Tracking Team Data Repository at Johns Hopkins University](https://github.com/CSSEGISandData/measles_data)
 
 ## Project Structure
 ```text
