@@ -1,15 +1,15 @@
 # Measles Data Visualization Project
-Streamlit data visualization dashboard showing measles cases in the United States.
+Data visualization of measles cases in the United States.
 
 ## Toolkit/Python Libraries Used
 | Component of Analysis | Python Library (or Libraries)|
 | --- | --- |
 | Data cleaning, preprocessing, and restructuring | pandas |
 | Visualizations | matplotlib, plotly express|
-| Dashboard | streamlit|
 
 ## Analysis Performed
 - Data cleaning and restructuring
 - Data visualizations
 
 ## Data Sources
+(JHU Measles Tracking Team Data Repository at Johns Hopkins University)[https://github.com/CSSEGISandData/measles_data/tree/main]
