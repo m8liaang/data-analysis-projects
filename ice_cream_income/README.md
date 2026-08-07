@@ -38,5 +38,5 @@ Source: [United States Census Bureau](https://www.census.gov/data/tables/2025/de
 ```text
 ice_cream_income/
 ├── README.md
-├── ice_cream_income.ipynb
+└── ice_cream_income.ipynb
 ```
