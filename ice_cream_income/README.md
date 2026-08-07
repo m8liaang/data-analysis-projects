@@ -31,3 +31,10 @@ Source: [United States Census Bureau](https://www.census.gov/data/tables/2025/de
 1. Regular and non-fat ice cream exhibitied downward trends with time, while low-fat ice cream saw an upward trend. 
 2. Median household income (bachelor's degree and higher) exhibited an upward trend with time, but the linear relationship was not strong. Certain fluctuations in its growth trajectory could be a result of certain economic events such as the 2008 financial crisis and the COVID-19 pandemic.
 3. Income is associated with a distribution of preferences across ice cream types, in which low-fat is indicated to be the most preferred and non-fat the least preferred.
+
+## Project Structure
+```text
+ice_cream_income/
+├── README.md
+├── ice_cream_income.ipynb
+```
