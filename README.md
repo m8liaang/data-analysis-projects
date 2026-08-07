@@ -3,7 +3,7 @@ A collection of data analysis projects done on a variety of topics. The goal is 
 
 Refer to the individual project's README.mds for more information on them, including key findings and data sources. 
 
-CSV files are **NOT** included in this repository. Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
+CSV files are **NOT** included in any of the directories in this repository. Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
 
 ## Project List
 - [Ice Cream and Income Data Analysis Project](https://github.com/m8liaang/data-analysis-projects/tree/main/ice_cream_income)
