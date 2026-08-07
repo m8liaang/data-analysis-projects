@@ -1,8 +1,4 @@
 # Is Income Associated with Ice Cream?
-
-This is an exploratory data analysis project.
-
-## Overview
 An exploratory data analysis project on the relationship between ice cream consumption (United States Department of Agriculture) and median household income (U.S. Census Bureau) over time in the United States, utilizing Google Colaboratory for coding. 
 
 ## Data Sources
