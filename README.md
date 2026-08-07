@@ -11,6 +11,6 @@ CSV files are **NOT** included in this repository. Users should obtain the datas
 - Netflix EDA Project \(netflix_eda_project\)
 
 ## Toolkit/Python Libraries Used
-pandas, matplotlib, seaborn, plotly
+pandas, matplotlib, seaborn, plotly, scipy (stats)
 
 These projects are coded in Google Colaboratory.
