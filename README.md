@@ -1,15 +1,17 @@
-# Measles Data Visualization Project
-Data visualization of measles cases in the United States.
+# Netflix EDA Project 
+Exploratory data analysis and visualization of a Netflix dataset.
+
+## Overview
 
 ## Toolkit/Python Libraries Used
-| Component of Analysis | Python Library (or Libraries)|
-| --- | --- |
-| Data cleaning, preprocessing, and restructuring | pandas |
-| Visualizations | plotly express|
+Pandas, matplotlib, seaborn
 
 ## Analysis Performed
 - Data cleaning and restructuring
-- Data visualizations
+- Data Analysis
+- Data Visualizations
 
 ## Data Sources
-[JHU Measles Tracking Team Data Repository at Johns Hopkins University](https://github.com/CSSEGISandData/measles_data/tree/main)
+Data is from data.world and Chase Winden. 
+
+## Key Findings
