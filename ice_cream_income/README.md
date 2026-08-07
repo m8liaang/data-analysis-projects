@@ -18,6 +18,8 @@ An exploratory data analysis project on the relationship between ice cream consu
 - Visualizations
 
 ## Data Sources
+Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
+
 ### Dataset: Selected Soft Dairy Products, Domestic Use (Annual)
 Source: [United States Department of Agriculture](https://ers.usda.gov/data-products/dairy-data)
 - [Soft Dairy Products Dataset](https://ers.usda.gov/media/5513/selected-soft-dairy-products-domestic-use-annual.xlsx?v=97674) (.xlsl file)
