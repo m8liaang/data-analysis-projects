@@ -11,7 +11,7 @@ The dataset was accessed via the [DataCamp community-groupby repository](https:/
 The DataCamp repository served as a convenient source for the CSV files, while the original dataset is hosted on data.world.
 
 ## Toolkit/Python Libraries Used
-Pandas, matplotlib, seaborn
+Pandas, matplotlib, seaborn, scipy (stats)
 
 ## Analysis Performed
 - Data cleaning and restructuring
@@ -26,7 +26,7 @@ Certain maturity ratings (NR and UR, "Not Rated" and "Unrated" respectively) may
 ## Key Findings
 1. 
 2. 
-3. 
+3. Pearson coefficients calculated showed a moderate positive relationship. The independent, two variable t-test suggests the null hypothesis cannot be rejected.
 
 ## Limitations
 Sample size was not known for critic rating scores. A much larger sample size could cause the average rating score to be way higher or lower than it really is. Not including UR and NR ratings in the analysis would also affect the average user and critics rating scores calculations.
