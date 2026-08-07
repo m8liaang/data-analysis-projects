@@ -1,5 +1,5 @@
 # Netflix Exploratory Data Analysis Project
-An exploratory data analysis project on movies and TV shows on Netflix. Three CSV files describing one dataset were processed, and certain areas of interest were identified and analyzed. The dataset used for this analysis contained Netflix movies and TV shows that were released from 1940 to 2017, and included information on their maturity ratings, rating scores, 
+An exploratory data analysis project on movies and TV shows on Netflix. Three CSV files describing one dataset were processed, and certain areas of interest were identified and analyzed. The dataset used for this analysis contained TV shows on Netflix that were released from 1940 to 2017, and included information on their maturity ratings, release years, and rating scores.
 
 ## Data Sources
 Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
