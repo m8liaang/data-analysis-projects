@@ -33,6 +33,8 @@ Sample size was not known for critic rating scores. A much larger sample size co
 
 The dataset also does not have an equal number of movies and TV shows released every year from 1940 to 2017. More movies and/or TV shows being released in one year (e.g. 2016) could skew the average rating score for that year for both users and critics, as the sample size would be much larger. Not only that, but it could also mean there is a better statistical test to use to analyze the null hypothesis.
 
+It is also possible the "rationg description" column does not contain critic rating scores, but rather some other kind of rating score. In that case, the analysis done would not be applicable.
+
 ## Project Structure
 ```text
 netflix_eda/
