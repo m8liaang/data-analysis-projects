@@ -1,5 +1,5 @@
 # Measles Outbreak Data Visualization Project
-An exploratory data visualization project that used plotly.express to model measles outbreaks in the United States and its most affected states (Florida, Virginia, Texas, Arizona, Utah, and South Carolina).
+An exploratory data visualization project that used plotly.express to model measles cases in the United States and its most affected states (Florida, Virginia, Texas, Arizona, Utah, and South Carolina).
 
 ## Toolkit/Python Libraries Used
 Pandas, plotly
