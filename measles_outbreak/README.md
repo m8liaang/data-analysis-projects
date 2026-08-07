@@ -6,7 +6,7 @@ Pandas, plotly
 
 ## Analysis Performed
 - Data cleaning and restructuring
-- Data Visualizations
+- Data visualization
 
 ## Data Source
 [JHU Measles Tracking Team Data Repository at Johns Hopkins University](https://github.com/CSSEGISandData/measles_data)
