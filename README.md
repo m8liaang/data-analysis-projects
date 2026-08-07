@@ -1,10 +1,10 @@
 # Netflix EDA Project 
-Exploratory data analysis and visualization of a Netflix dataset.
-
-## Overview
+An exploratory data analysis project on a Netflix dataset, utilizing Google Colaboratory for coding.
 
 ## Toolkit/Python Libraries Used
 Pandas, matplotlib, seaborn
+
+The project was done in Google Colaboratory.
 
 ## Analysis Performed
 - Data cleaning and restructuring
