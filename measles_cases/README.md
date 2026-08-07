@@ -22,16 +22,18 @@ Pandas, plotly
 ```text
 measles_outbreak/
 ├── img/
-│   └── arizona.png
-│   └── case_type.png
-│   └── case_US.png
-│   └── cases_year.png
-│   └── florida.png
+|   └── cases/
+│   │    ├── case_type.png
+│   │    ├── case_US.png
+│   │    └── cases_year.png
+|   └── states/
+│   │   ├── arizona.png
+│   │   ├── florida.png
+│   │   ├── south_carolina.png
+│   │   ├── texas.png
+│   │   ├── utah.png
+│   │   └── virginia.png
 │   └── most_affected_states.png
-│   └── south_carolina.png
-│   └── texas.png
-│   └── utah.png
-│   └── virginia.png
-└── README.md
-└── measles_outbreak.ipynb
+├── README.md
+├── measles_outbreak.ipynb
 ```
