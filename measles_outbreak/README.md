@@ -1,17 +1,17 @@
 # Measles Outbreak Data Visualization Project
 An exploratory data visualization project that used plotly.express to model measles cases in the United States and its most affected states (Florida, Virginia, Texas, Arizona, Utah, and South Carolina).
 
+## Data Source
+Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
+
+[JHU Measles Tracking Team Data Repository at Johns Hopkins University](https://github.com/CSSEGISandData/measles_data)
+
 ## Toolkit/Python Libraries Used
 Pandas, plotly
 
 ## Analysis Performed
 - Data cleaning and restructuring
 - Data visualization (shown as .png files in img folder)
-
-## Data Source
-Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
-
-[JHU Measles Tracking Team Data Repository at Johns Hopkins University](https://github.com/CSSEGISandData/measles_data)
 
 ## Project Structure
 ```text
