@@ -23,7 +23,7 @@ The epidemic curves revealed that there were/are, in fact, measles outbreaks.
 
 ## Project Structure
 ```text
-measles_outbreak/
+measles_cases/
 ├── img/
 |   └── cases/
 │   │    ├── case_type.png
@@ -38,5 +38,5 @@ measles_outbreak/
 │   │   └── virginia.png
 │   └── most_affected_states.png
 ├── README.md
-└── measles_outbreak.ipynb
+└── measles_cases.ipynb
 ```
