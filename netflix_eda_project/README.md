@@ -16,3 +16,13 @@ The dataset was accessed via the [DataCamp community-groupby repository](https:/
 The DataCamp repository served as a convenient source for the CSV files, while the original dataset is hosted on data.world.
 
 ## Key Findings
+1.
+2. 
+3. 
+
+## Project Structure
+```text
+netflix_eda_project/
+├── netflix_eda.ipynb
+├── README.md
+```
