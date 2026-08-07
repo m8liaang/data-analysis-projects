@@ -5,8 +5,8 @@ Pandas, matplotlib, seaborn
 
 ## Analysis Performed
 - Data cleaning and restructuring
-- Data Visualizations
-- Data Analysis
+- Data visualizations
+- Data analysis
 
 ## Data Sources
 Data is from [data.world and Chase Willden](https://data.world/chasewillden/netflix-shows).
