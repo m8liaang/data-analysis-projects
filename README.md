@@ -5,7 +5,7 @@ Data visualization of measles cases in the United States.
 | Component of Analysis | Python Library (or Libraries)|
 | --- | --- |
 | Data cleaning, preprocessing, and restructuring | pandas |
-| Visualizations | matplotlib, plotly express|
+| Visualizations | plotly express|
 
 ## Analysis Performed
 - Data cleaning and restructuring
