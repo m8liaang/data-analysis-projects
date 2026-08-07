@@ -12,9 +12,9 @@ Pandas, matplotlib, seaborn
 - Data Analysis
 
 ## Data Sources
-Data is from (data.world and Chase Winden)[https://data.world/chasewillden/netflix-shows].
+Data is from [data.world and Chase Willden](https://data.world/chasewillden/netflix-shows).
 
-The dataset was accessed via the (DataCamp community-groupby repository)[https://github.com/datacamp/community-groupby/tree/master/data].
+The dataset was accessed via the [DataCamp community-groupby repository](https://github.com/datacamp/community-groupby/tree/master/data).
 
 The DataCamp repository served as a convenient source for the CSV files, while the original dataset is hosted on data.world.
 
