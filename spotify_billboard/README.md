@@ -1,8 +1,10 @@
 # Spotify Billboard Data Visualization Project
 A simple data visualization project that uses plotly to model the artists, subgenres, and genres of the songs that appeared in 1990's Billboard 100.
 
-## Data Sources
+## Data Source
 Users should obtain the dataset directly from the original source and comply with its applicable terms of use.
+
+Data from [MainakRepositor](https://github.com/MainakRepositor/Datasets/blob/master/Billboard%201990.csv).
 
 ## Toolkit/Python Libraries Used
 Pandas, matplotlib, seaborn, plotly
