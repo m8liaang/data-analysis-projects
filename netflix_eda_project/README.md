@@ -16,7 +16,9 @@ The dataset was accessed via the [DataCamp community-groupby repository](https:/
 The DataCamp repository served as a convenient source for the CSV files, while the original dataset is hosted on data.world.
 
 ## Assumptions
-The dataset did not give information as to what some of the columns meant. One such column, titled "rating description", was assumed to be the rating score critics gave the particular movie or TV show. The number of critics that contributed to this score was also unknown; therefore, it is possible that way more critics rated certain movies and TV shows compared to Netflix users.
+The dataset did not give information as to what some of the columns meant. One such column, titled "rating description", was assumed to be the rating score critics gave the particular movie or TV show. The number of critics that contributed to this score was also unknown; therefore, it is possible that way more critics rated certain movies and TV shows compared to Netflix users. As a result, it was assumed that the two groups were similar in size.
+
+Certain maturity ratings may overlap (NR and UR, "Not Rated" and "Unrated" respectively), which would affect calculating the average rating scores of critics and users alike. NR and UR were, therefore, not included in this data analysis.
 
 ## Key Findings
 1.
