@@ -4,8 +4,6 @@ An exploratory data analysis project on a Netflix dataset, utilizing Google Cola
 ## Toolkit/Python Libraries Used
 Pandas, matplotlib, seaborn
 
-The project was done in Google Colaboratory.
-
 ## Analysis Performed
 - Data cleaning and restructuring
 - Data Visualizations
